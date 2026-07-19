@@ -13,6 +13,8 @@ class CuteCat:
         self.cat_name = cat_name
         self.cat_type = cat_type
 
+
+
     def action(self):
 
         print("睡觉")
