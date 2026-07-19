@@ -7,4 +7,7 @@ class ShoppingList:
             total_price = 0
             for price in self.shopping_list.values():
                 total_price += price
+            print(total_price)
             return total_price
+            return total_price
+
