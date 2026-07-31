@@ -77,6 +77,6 @@ for index, row in df.iterrows():
         phonenumber=row["phonenumber"]
     )
     dataList.append(person)
-    # 4. 遍历dataList，逐个调用showInfo打印信息
     for p in dataList:
         p.show_info()
+

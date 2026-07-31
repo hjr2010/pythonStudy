@@ -2,10 +2,6 @@
 #BMI=weight/(height ** 2)
 #user_weight=float(input("type your weight: (kg)"))
 #user_height=float(input("type your height: (m)"))
-from unittest import result
-
-from unicodedata import category
-print("hello")
 try:
     total=0
     count=0
